@@ -1,13 +1,13 @@
-# celis_ezekiel_FINAL_FIP
-This repo is our FINAL FIP 
+# celis_ezekiel_Portfolio
+This repo is for our Portfolio
 
 
-# hw3_celis_ezekiel_FINAL_FIP
-This repo is for our FINAL FIP
+# _celis_ezekiel_Portfolio
+This repo is for our Portfolio
 
 # Project Name:  
-### - FINAL FIP
- This repo is our FINAL FIP
+### - Portfolio
+ This repo is our Portfolio
 
 
 ## Installation 
@@ -29,12 +29,11 @@ N/A
 
 ## History
 
-ARPRIL 14, 2024
+October 12, 2024
 
 ## Credits 
 
 Ezekiel John Celis
-Saif Abusaad
 
 ## License 
 
